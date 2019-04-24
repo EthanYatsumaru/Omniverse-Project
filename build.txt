@@ -1,0 +1,8 @@
+author = EthanYatsumaru
+version = 0.3.1
+displayName = [c/380094:Omniverse Project]
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
